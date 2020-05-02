@@ -1,0 +1,13 @@
+C:\Users\Igor\Documents\game_developer_course\level_1\lesson_1\form\bin\Debug\netcoreapp3.1\form.exe
+C:\Users\Igor\Documents\game_developer_course\level_1\lesson_1\form\bin\Debug\netcoreapp3.1\form.deps.json
+C:\Users\Igor\Documents\game_developer_course\level_1\lesson_1\form\bin\Debug\netcoreapp3.1\form.runtimeconfig.json
+C:\Users\Igor\Documents\game_developer_course\level_1\lesson_1\form\bin\Debug\netcoreapp3.1\form.runtimeconfig.dev.json
+C:\Users\Igor\Documents\game_developer_course\level_1\lesson_1\form\bin\Debug\netcoreapp3.1\form.dll
+C:\Users\Igor\Documents\game_developer_course\level_1\lesson_1\form\bin\Debug\netcoreapp3.1\form.pdb
+C:\Users\Igor\Documents\game_developer_course\level_1\lesson_1\form\obj\Debug\netcoreapp3.1\form.csprojAssemblyReference.cache
+C:\Users\Igor\Documents\game_developer_course\level_1\lesson_1\form\obj\Debug\netcoreapp3.1\form.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Documents\game_developer_course\level_1\lesson_1\form\obj\Debug\netcoreapp3.1\form.AssemblyInfoInputs.cache
+C:\Users\Igor\Documents\game_developer_course\level_1\lesson_1\form\obj\Debug\netcoreapp3.1\form.AssemblyInfo.cs
+C:\Users\Igor\Documents\game_developer_course\level_1\lesson_1\form\obj\Debug\netcoreapp3.1\form.dll
+C:\Users\Igor\Documents\game_developer_course\level_1\lesson_1\form\obj\Debug\netcoreapp3.1\form.pdb
+C:\Users\Igor\Documents\game_developer_course\level_1\lesson_1\form\obj\Debug\netcoreapp3.1\form.genruntimeconfig.cache
