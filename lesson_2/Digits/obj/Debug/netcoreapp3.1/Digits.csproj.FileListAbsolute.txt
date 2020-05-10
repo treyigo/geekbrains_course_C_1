@@ -1,0 +1,13 @@
+C:\Users\Igor\Documents\game_developer_course\github\Course_C1\lesson_2\Digits\obj\Debug\netcoreapp3.1\Digits.csprojAssemblyReference.cache
+C:\Users\Igor\Documents\game_developer_course\github\Course_C1\lesson_2\Digits\obj\Debug\netcoreapp3.1\Digits.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Documents\game_developer_course\github\Course_C1\lesson_2\Digits\obj\Debug\netcoreapp3.1\Digits.AssemblyInfoInputs.cache
+C:\Users\Igor\Documents\game_developer_course\github\Course_C1\lesson_2\Digits\obj\Debug\netcoreapp3.1\Digits.AssemblyInfo.cs
+C:\Users\Igor\Documents\game_developer_course\github\Course_C1\lesson_2\Digits\bin\Debug\netcoreapp3.1\Digits.exe
+C:\Users\Igor\Documents\game_developer_course\github\Course_C1\lesson_2\Digits\bin\Debug\netcoreapp3.1\Digits.deps.json
+C:\Users\Igor\Documents\game_developer_course\github\Course_C1\lesson_2\Digits\bin\Debug\netcoreapp3.1\Digits.runtimeconfig.json
+C:\Users\Igor\Documents\game_developer_course\github\Course_C1\lesson_2\Digits\bin\Debug\netcoreapp3.1\Digits.runtimeconfig.dev.json
+C:\Users\Igor\Documents\game_developer_course\github\Course_C1\lesson_2\Digits\bin\Debug\netcoreapp3.1\Digits.dll
+C:\Users\Igor\Documents\game_developer_course\github\Course_C1\lesson_2\Digits\bin\Debug\netcoreapp3.1\Digits.pdb
+C:\Users\Igor\Documents\game_developer_course\github\Course_C1\lesson_2\Digits\obj\Debug\netcoreapp3.1\Digits.dll
+C:\Users\Igor\Documents\game_developer_course\github\Course_C1\lesson_2\Digits\obj\Debug\netcoreapp3.1\Digits.pdb
+C:\Users\Igor\Documents\game_developer_course\github\Course_C1\lesson_2\Digits\obj\Debug\netcoreapp3.1\Digits.genruntimeconfig.cache
