@@ -1,0 +1,13 @@
+C:\Users\Igor\Documents\game_developer_course\github\Course_C1\lesson_3\ComplexNumbers\bin\Debug\netcoreapp3.1\ComplexNumbers.exe
+C:\Users\Igor\Documents\game_developer_course\github\Course_C1\lesson_3\ComplexNumbers\bin\Debug\netcoreapp3.1\ComplexNumbers.deps.json
+C:\Users\Igor\Documents\game_developer_course\github\Course_C1\lesson_3\ComplexNumbers\bin\Debug\netcoreapp3.1\ComplexNumbers.runtimeconfig.json
+C:\Users\Igor\Documents\game_developer_course\github\Course_C1\lesson_3\ComplexNumbers\bin\Debug\netcoreapp3.1\ComplexNumbers.runtimeconfig.dev.json
+C:\Users\Igor\Documents\game_developer_course\github\Course_C1\lesson_3\ComplexNumbers\bin\Debug\netcoreapp3.1\ComplexNumbers.dll
+C:\Users\Igor\Documents\game_developer_course\github\Course_C1\lesson_3\ComplexNumbers\bin\Debug\netcoreapp3.1\ComplexNumbers.pdb
+C:\Users\Igor\Documents\game_developer_course\github\Course_C1\lesson_3\ComplexNumbers\obj\Debug\netcoreapp3.1\ComplexNumbers.csprojAssemblyReference.cache
+C:\Users\Igor\Documents\game_developer_course\github\Course_C1\lesson_3\ComplexNumbers\obj\Debug\netcoreapp3.1\ComplexNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Documents\game_developer_course\github\Course_C1\lesson_3\ComplexNumbers\obj\Debug\netcoreapp3.1\ComplexNumbers.AssemblyInfoInputs.cache
+C:\Users\Igor\Documents\game_developer_course\github\Course_C1\lesson_3\ComplexNumbers\obj\Debug\netcoreapp3.1\ComplexNumbers.AssemblyInfo.cs
+C:\Users\Igor\Documents\game_developer_course\github\Course_C1\lesson_3\ComplexNumbers\obj\Debug\netcoreapp3.1\ComplexNumbers.dll
+C:\Users\Igor\Documents\game_developer_course\github\Course_C1\lesson_3\ComplexNumbers\obj\Debug\netcoreapp3.1\ComplexNumbers.pdb
+C:\Users\Igor\Documents\game_developer_course\github\Course_C1\lesson_3\ComplexNumbers\obj\Debug\netcoreapp3.1\ComplexNumbers.genruntimeconfig.cache

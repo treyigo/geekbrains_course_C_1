@@ -1,0 +1,13 @@
+C:\Users\Igor\Documents\game_developer_course\github\Course_C1\lesson_3\Sum\bin\Debug\netcoreapp3.1\Sum.exe
+C:\Users\Igor\Documents\game_developer_course\github\Course_C1\lesson_3\Sum\bin\Debug\netcoreapp3.1\Sum.deps.json
+C:\Users\Igor\Documents\game_developer_course\github\Course_C1\lesson_3\Sum\bin\Debug\netcoreapp3.1\Sum.runtimeconfig.json
+C:\Users\Igor\Documents\game_developer_course\github\Course_C1\lesson_3\Sum\bin\Debug\netcoreapp3.1\Sum.runtimeconfig.dev.json
+C:\Users\Igor\Documents\game_developer_course\github\Course_C1\lesson_3\Sum\bin\Debug\netcoreapp3.1\Sum.dll
+C:\Users\Igor\Documents\game_developer_course\github\Course_C1\lesson_3\Sum\bin\Debug\netcoreapp3.1\Sum.pdb
+C:\Users\Igor\Documents\game_developer_course\github\Course_C1\lesson_3\Sum\obj\Debug\netcoreapp3.1\Sum.csprojAssemblyReference.cache
+C:\Users\Igor\Documents\game_developer_course\github\Course_C1\lesson_3\Sum\obj\Debug\netcoreapp3.1\Sum.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Documents\game_developer_course\github\Course_C1\lesson_3\Sum\obj\Debug\netcoreapp3.1\Sum.AssemblyInfoInputs.cache
+C:\Users\Igor\Documents\game_developer_course\github\Course_C1\lesson_3\Sum\obj\Debug\netcoreapp3.1\Sum.AssemblyInfo.cs
+C:\Users\Igor\Documents\game_developer_course\github\Course_C1\lesson_3\Sum\obj\Debug\netcoreapp3.1\Sum.dll
+C:\Users\Igor\Documents\game_developer_course\github\Course_C1\lesson_3\Sum\obj\Debug\netcoreapp3.1\Sum.pdb
+C:\Users\Igor\Documents\game_developer_course\github\Course_C1\lesson_3\Sum\obj\Debug\netcoreapp3.1\Sum.genruntimeconfig.cache
