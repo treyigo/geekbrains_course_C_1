@@ -1,0 +1,13 @@
+C:\Users\Igor\Documents\game_developer_course\level_1\lesson_4\lesson_4\static_array\bin\Debug\netcoreapp3.1\static_array.exe
+C:\Users\Igor\Documents\game_developer_course\level_1\lesson_4\lesson_4\static_array\bin\Debug\netcoreapp3.1\static_array.deps.json
+C:\Users\Igor\Documents\game_developer_course\level_1\lesson_4\lesson_4\static_array\bin\Debug\netcoreapp3.1\static_array.runtimeconfig.json
+C:\Users\Igor\Documents\game_developer_course\level_1\lesson_4\lesson_4\static_array\bin\Debug\netcoreapp3.1\static_array.runtimeconfig.dev.json
+C:\Users\Igor\Documents\game_developer_course\level_1\lesson_4\lesson_4\static_array\bin\Debug\netcoreapp3.1\static_array.dll
+C:\Users\Igor\Documents\game_developer_course\level_1\lesson_4\lesson_4\static_array\bin\Debug\netcoreapp3.1\static_array.pdb
+C:\Users\Igor\Documents\game_developer_course\level_1\lesson_4\lesson_4\static_array\obj\Debug\netcoreapp3.1\static_array.csprojAssemblyReference.cache
+C:\Users\Igor\Documents\game_developer_course\level_1\lesson_4\lesson_4\static_array\obj\Debug\netcoreapp3.1\static_array.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Documents\game_developer_course\level_1\lesson_4\lesson_4\static_array\obj\Debug\netcoreapp3.1\static_array.AssemblyInfoInputs.cache
+C:\Users\Igor\Documents\game_developer_course\level_1\lesson_4\lesson_4\static_array\obj\Debug\netcoreapp3.1\static_array.AssemblyInfo.cs
+C:\Users\Igor\Documents\game_developer_course\level_1\lesson_4\lesson_4\static_array\obj\Debug\netcoreapp3.1\static_array.dll
+C:\Users\Igor\Documents\game_developer_course\level_1\lesson_4\lesson_4\static_array\obj\Debug\netcoreapp3.1\static_array.pdb
+C:\Users\Igor\Documents\game_developer_course\level_1\lesson_4\lesson_4\static_array\obj\Debug\netcoreapp3.1\static_array.genruntimeconfig.cache

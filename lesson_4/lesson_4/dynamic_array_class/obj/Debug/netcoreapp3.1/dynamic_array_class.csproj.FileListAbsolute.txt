@@ -1,0 +1,13 @@
+C:\Users\Igor\Documents\game_developer_course\level_1\lesson_4\lesson_4\dynamic_array_class\bin\Debug\netcoreapp3.1\dynamic_array_class.exe
+C:\Users\Igor\Documents\game_developer_course\level_1\lesson_4\lesson_4\dynamic_array_class\bin\Debug\netcoreapp3.1\dynamic_array_class.deps.json
+C:\Users\Igor\Documents\game_developer_course\level_1\lesson_4\lesson_4\dynamic_array_class\bin\Debug\netcoreapp3.1\dynamic_array_class.runtimeconfig.json
+C:\Users\Igor\Documents\game_developer_course\level_1\lesson_4\lesson_4\dynamic_array_class\bin\Debug\netcoreapp3.1\dynamic_array_class.runtimeconfig.dev.json
+C:\Users\Igor\Documents\game_developer_course\level_1\lesson_4\lesson_4\dynamic_array_class\bin\Debug\netcoreapp3.1\dynamic_array_class.dll
+C:\Users\Igor\Documents\game_developer_course\level_1\lesson_4\lesson_4\dynamic_array_class\bin\Debug\netcoreapp3.1\dynamic_array_class.pdb
+C:\Users\Igor\Documents\game_developer_course\level_1\lesson_4\lesson_4\dynamic_array_class\obj\Debug\netcoreapp3.1\dynamic_array_class.csprojAssemblyReference.cache
+C:\Users\Igor\Documents\game_developer_course\level_1\lesson_4\lesson_4\dynamic_array_class\obj\Debug\netcoreapp3.1\dynamic_array_class.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Documents\game_developer_course\level_1\lesson_4\lesson_4\dynamic_array_class\obj\Debug\netcoreapp3.1\dynamic_array_class.AssemblyInfoInputs.cache
+C:\Users\Igor\Documents\game_developer_course\level_1\lesson_4\lesson_4\dynamic_array_class\obj\Debug\netcoreapp3.1\dynamic_array_class.AssemblyInfo.cs
+C:\Users\Igor\Documents\game_developer_course\level_1\lesson_4\lesson_4\dynamic_array_class\obj\Debug\netcoreapp3.1\dynamic_array_class.dll
+C:\Users\Igor\Documents\game_developer_course\level_1\lesson_4\lesson_4\dynamic_array_class\obj\Debug\netcoreapp3.1\dynamic_array_class.pdb
+C:\Users\Igor\Documents\game_developer_course\level_1\lesson_4\lesson_4\dynamic_array_class\obj\Debug\netcoreapp3.1\dynamic_array_class.genruntimeconfig.cache
