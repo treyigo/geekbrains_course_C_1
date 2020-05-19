@@ -1,0 +1,13 @@
+C:\Users\Igor\Documents\game_developer_course\level_1\lesson_5\lesson_5\login\obj\Debug\netcoreapp3.1\login.csprojAssemblyReference.cache
+C:\Users\Igor\Documents\game_developer_course\level_1\lesson_5\lesson_5\login\obj\Debug\netcoreapp3.1\login.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Documents\game_developer_course\level_1\lesson_5\lesson_5\login\obj\Debug\netcoreapp3.1\login.AssemblyInfoInputs.cache
+C:\Users\Igor\Documents\game_developer_course\level_1\lesson_5\lesson_5\login\obj\Debug\netcoreapp3.1\login.AssemblyInfo.cs
+C:\Users\Igor\Documents\game_developer_course\level_1\lesson_5\lesson_5\login\bin\Debug\netcoreapp3.1\login.exe
+C:\Users\Igor\Documents\game_developer_course\level_1\lesson_5\lesson_5\login\bin\Debug\netcoreapp3.1\login.deps.json
+C:\Users\Igor\Documents\game_developer_course\level_1\lesson_5\lesson_5\login\bin\Debug\netcoreapp3.1\login.runtimeconfig.json
+C:\Users\Igor\Documents\game_developer_course\level_1\lesson_5\lesson_5\login\bin\Debug\netcoreapp3.1\login.runtimeconfig.dev.json
+C:\Users\Igor\Documents\game_developer_course\level_1\lesson_5\lesson_5\login\bin\Debug\netcoreapp3.1\login.dll
+C:\Users\Igor\Documents\game_developer_course\level_1\lesson_5\lesson_5\login\bin\Debug\netcoreapp3.1\login.pdb
+C:\Users\Igor\Documents\game_developer_course\level_1\lesson_5\lesson_5\login\obj\Debug\netcoreapp3.1\login.dll
+C:\Users\Igor\Documents\game_developer_course\level_1\lesson_5\lesson_5\login\obj\Debug\netcoreapp3.1\login.pdb
+C:\Users\Igor\Documents\game_developer_course\level_1\lesson_5\lesson_5\login\obj\Debug\netcoreapp3.1\login.genruntimeconfig.cache
