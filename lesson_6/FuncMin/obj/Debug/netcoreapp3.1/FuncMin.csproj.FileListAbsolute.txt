@@ -1,0 +1,13 @@
+C:\Users\Igor\Documents\game_developer_course\level_1\lesson_6\lesson_6\FuncMin\bin\Debug\netcoreapp3.1\FuncMin.exe
+C:\Users\Igor\Documents\game_developer_course\level_1\lesson_6\lesson_6\FuncMin\bin\Debug\netcoreapp3.1\FuncMin.deps.json
+C:\Users\Igor\Documents\game_developer_course\level_1\lesson_6\lesson_6\FuncMin\bin\Debug\netcoreapp3.1\FuncMin.runtimeconfig.json
+C:\Users\Igor\Documents\game_developer_course\level_1\lesson_6\lesson_6\FuncMin\bin\Debug\netcoreapp3.1\FuncMin.runtimeconfig.dev.json
+C:\Users\Igor\Documents\game_developer_course\level_1\lesson_6\lesson_6\FuncMin\bin\Debug\netcoreapp3.1\FuncMin.dll
+C:\Users\Igor\Documents\game_developer_course\level_1\lesson_6\lesson_6\FuncMin\bin\Debug\netcoreapp3.1\FuncMin.pdb
+C:\Users\Igor\Documents\game_developer_course\level_1\lesson_6\lesson_6\FuncMin\obj\Debug\netcoreapp3.1\FuncMin.csprojAssemblyReference.cache
+C:\Users\Igor\Documents\game_developer_course\level_1\lesson_6\lesson_6\FuncMin\obj\Debug\netcoreapp3.1\FuncMin.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Documents\game_developer_course\level_1\lesson_6\lesson_6\FuncMin\obj\Debug\netcoreapp3.1\FuncMin.AssemblyInfoInputs.cache
+C:\Users\Igor\Documents\game_developer_course\level_1\lesson_6\lesson_6\FuncMin\obj\Debug\netcoreapp3.1\FuncMin.AssemblyInfo.cs
+C:\Users\Igor\Documents\game_developer_course\level_1\lesson_6\lesson_6\FuncMin\obj\Debug\netcoreapp3.1\FuncMin.dll
+C:\Users\Igor\Documents\game_developer_course\level_1\lesson_6\lesson_6\FuncMin\obj\Debug\netcoreapp3.1\FuncMin.pdb
+C:\Users\Igor\Documents\game_developer_course\level_1\lesson_6\lesson_6\FuncMin\obj\Debug\netcoreapp3.1\FuncMin.genruntimeconfig.cache
