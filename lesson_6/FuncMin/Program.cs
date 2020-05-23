@@ -3,6 +3,8 @@ using System.IO;
 using System.Text;
 using System.Globalization;
 
+// Третьяков Игорь, программа нахождения минимума функии
+
 namespace DoubleBinary
 {
     public delegate double Fun(double x);

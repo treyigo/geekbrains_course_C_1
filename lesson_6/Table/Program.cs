@@ -1,6 +1,5 @@
 ﻿using System;
-// Описываем делегат. В делегате описывается сигнатура методов, на
-// которые он сможет ссылаться в дальнейшем (хранить в себе)
+//Третьяков Игорь, вывод таблицы функции
 public delegate double Fun(double x);
 public delegate double Fun2(double a, double x);
 
